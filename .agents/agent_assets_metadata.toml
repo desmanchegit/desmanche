@@ -1,0 +1,13 @@
+uploads = []
+
+[[generated]]
+id = "ZhPpfGPHB_mRHHk5hmBC-"
+uri = "file://attached_assets/cenario_oficina.png"
+type = "image"
+title = "cartoon workshop background"
+
+[[outputs]]
+id = "xfKrlAhbsYNe8DZxEZVvi"
+uri = "file://attached_assets/apresentacao_central_desmanches.mp4"
+type = "video"
+title = "Apresentação — Central dos Desmanches"
